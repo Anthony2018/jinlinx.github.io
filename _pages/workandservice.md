@@ -18,7 +18,7 @@ nav_order: 5
 **Teaching Assistant**, University of Washington, 01/2020～NOW, Seattle, WA.
 - EE 241 Programming for S&IP Applications
 - EEP 596 Recommender Systems, Instructor: [Karthik Mohan](https://www.ece.uw.edu/people/karthik-mohan/)
-- ME/EE 547 Linear Control Theory,Instructor: [Xu Chen](https://www.macslab.xyz/)
+- ME/EE 547 Linear Control Theory, Instructor: [Xu Chen](https://www.macslab.xyz/)
 
 ### **Service**
 
