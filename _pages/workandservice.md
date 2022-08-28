@@ -22,4 +22,4 @@ nav_order: 5
 
 ### **Service**
 
-Journal reviewer: CIKM
+Journal Reviewer: CIKM
