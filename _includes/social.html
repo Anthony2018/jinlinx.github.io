@@ -52,6 +52,9 @@
             {%- if site.stackoverflow_id -%}
             <a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fab fa-stack-overflow"></i></a>
             {% endif %}
+            {%- if site.cv_url -%}
+            <a href="{{ site.cv_url }}" title="CV"><i class="fas fa-file-alt"></i>
+            {% endif %}
             {%- if site.rss_icon -%}
             <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
             {% endif %}
