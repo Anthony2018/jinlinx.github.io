@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Balanced Incremental Approach for Meta Learning
-description: Balanced Incremental Approach for Meta Learning
+description: Balanced Incremental Approach for Meta Learning<br/><br/><br/>
 img: assets/img/MAML/Overview.png
 importance: 3
 category: Research

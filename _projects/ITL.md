@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Incremental Transfer Learning
-description:  Incremental Learning Meets Transfer Learning, Application to Multi-site Prostate MRI Segmentation
+description:  Incremental Learning Meets Transfer Learning, Application to Multi-site Prostate MRI Segmentation <br/><br/>
 img: assets/img/ITL/visualization_res18.png
 importance: 2
 category: Research
