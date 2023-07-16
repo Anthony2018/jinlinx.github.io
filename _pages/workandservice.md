@@ -22,6 +22,6 @@ nav_order: 5
 
 ### **Service**
 
-Journal Reviewer: CIKM
+Journal Reviewer: CIKM 2022, KDD 2023, Neurips 2023, MICCAI DECAF 2023
 
 GASP Mentor 2022
