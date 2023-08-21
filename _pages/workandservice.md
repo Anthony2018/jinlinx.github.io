@@ -20,8 +20,7 @@ nav_order: 5
 - EEP 596 Recommender Systems, Instructor: [Karthik Mohan](https://www.ece.uw.edu/people/karthik-mohan/)
 - ME/EE 547 Linear Control Theory, Instructor: [Xu Chen](https://www.macslab.xyz/)
 
-### **Service**
-
-Journal Reviewer: CIKM 2022, KDD 2023, Neurips 2023, MICCAI DECAF 2023
-
-GASP Mentor 2022
+### **Services**
+Conference Reviews: CIKM 2022, KDD 2023, NeurIPS & NeurIPS Ethics 2023, MICCAI 2023, CLAI 2023
+Journal Reviews: PLOS ONE, Data Science and Management (DSM)
+Other Services: Graduate Applicant Support Program (GASP) 
