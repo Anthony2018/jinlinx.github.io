@@ -32,6 +32,7 @@ Mentor: [Dennis Meng](https://kernellabs.io/), Lead Data Scientist at Kernel Lab
 - ME/EE 547 Linear Control Theory, Instructor: [Xu Chen](https://www.macslab.xyz/)
 
 ### **Services**
-- Conference Reviews: CIKM 2022, KDD 2023, NeurIPS & NeurIPS Ethics 2023, MICCAI 2023, CLAI 2023
+- Conference Reviews: CIKM, KDD, NeurIPS & NeurIPS Ethics, MICCAI, CLAI, ICLR, CVPR, ICMD, ISKE, SAM
+- Workshop: NeurIPS AFT, NeurIPS AID4, NeurIPS DLDE
 - Journal Reviews: PLOS ONE, Data Science and Management (DSM)
 - Other Services: Graduate Applicant Support Program (GASP) 
